@@ -68,6 +68,7 @@ function secondHalf(arr) {
   return secondHalfArray;
 }
 
+
 module.exports = {
   oddIndices,
   oddReverse,

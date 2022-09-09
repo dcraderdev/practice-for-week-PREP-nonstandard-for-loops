@@ -90,6 +90,37 @@ function isPower(x, y) {
   return pow == y;
 }
 
+
+
+
+
+
+
+
+function addTwo(num) {
+  return num + 2;
+}
+console.log(addTwo(2));
+
+function divideByTwo(num) {
+  return num / 2;
+}
+console.log(divideByTwo(2));
+
+console.log(`-------------------`);
+
+function outsWithoutSuits(board, hand) {}
+  
+
+console.log([a,q,10], [2,7]);
+
+
+
+
+
+
+
+
 //          x is power of y?
 //         7 is power of 49?
 console.log(isPower(7, 49)); // true
